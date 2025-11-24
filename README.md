@@ -12,3 +12,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HungNguyen&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=My-Name-Hung&show_icons=true&theme=dark)
+![[GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=My-Name-Hung&theme=dark)

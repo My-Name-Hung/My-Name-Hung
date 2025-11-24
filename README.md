@@ -1,2 +1,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HungNguyen&theme=dark)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=My-Name-Hung)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=My-Name-Hung&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=My-Name-Hung&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=My-Name-Hung&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=My-Name-Hung&commits_year=2025)

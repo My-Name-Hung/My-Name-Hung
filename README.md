@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nguyen Thanh Hung
-![GitHub Streak](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![GitHub Streak](https://komarev.com/ghpvc/?username=My-Name-Hung&color=brightgreen)
 ### A passionate Javascript developer
 
 <h3 align="left">Connect with me:</h3>

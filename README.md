@@ -1,5 +1,5 @@
-# Hi 👋, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&pause=1000&color=3FF76A&width=435&lines=NGUYEN+THANH+HUNG)](https://git.io/typing-svg)
-<img width="13616" height="5440" alt="image" src="https://github.com/user-attachments/assets/5ee3649b-dcc9-4396-a580-a89beaba5b82" />
+# Hi 👋,
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&pause=1000&color=3FF76A&width=435&lines=NGUYEN+THANH+HUNG)](https://git.io/typing-svg)
 
 ![GitHub Streak](https://komarev.com/ghpvc/?username=My-Name-Hung&color=brightgreen)
 ### A passionate Javascript developer

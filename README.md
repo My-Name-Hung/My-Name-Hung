@@ -1,4 +1,4 @@
-# Hi 👋,
+# Hi 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&pause=1000&color=3FF76A&width=435&lines=NGUYEN+THANH+HUNG)](https://git.io/typing-svg)
 
 ![GitHub Streak](https://komarev.com/ghpvc/?username=My-Name-Hung&color=brightgreen)
